@@ -8,9 +8,9 @@ Replace `api.json` with your own json key.
 ```
 npm install
 node app.js
+```
 
 Navigate to http://localhost:3000/?token={PURCHASE_TOKEN}
-```
 
 Output response:
 ```
